@@ -28,6 +28,6 @@ require (
 	google.golang.org/genproto v0.0.0-20211008145708-270636b82663
 	google.golang.org/grpc v1.41.0 // indirect
 	k8s.io/api v0.22.2
-	k8s.io/apimachinery v0.22.2
+	k8s.io/apimachinery v0.22.4
 	k8s.io/client-go v0.22.2
 )
