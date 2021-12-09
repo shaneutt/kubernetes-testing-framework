@@ -21,11 +21,10 @@ require (
 	github.com/spf13/viper v1.9.0
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/net v0.0.0-20211008194852-3b03d305991f // indirect
-	golang.org/x/oauth2 v0.0.0-20211005180243-6b3c2da341f1
-	golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac // indirect
+	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	golang.org/x/text v0.3.7 // indirect
-	google.golang.org/api v0.58.0
-	google.golang.org/genproto v0.0.0-20211008145708-270636b82663
+	google.golang.org/api v0.62.0
+	google.golang.org/genproto v0.0.0-20211203200212-54befc351ae9
 	google.golang.org/grpc v1.41.0 // indirect
 	k8s.io/api v0.22.2
 	k8s.io/apimachinery v0.22.2
